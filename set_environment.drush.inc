@@ -19,7 +19,7 @@ function set_environment_drush_command() {
 /**
  * Command callback: Set site deployment state.
  *
- * @TODO Support more then two environments.
+ * @TODO Support more than two environments.
  */
 function drush_set_environment($environment = FALSE) {
 
