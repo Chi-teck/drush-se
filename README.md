@@ -6,4 +6,5 @@ Similar projects:
 * https://www.drupal.org/project/tadaa
 * https://www.drupal.org/project/master
 * https://www.drupal.org/project/set_environment
+* https://www.drupal.org/project/environments
 * https://github.com/Lullabot/drupal-boilerplate/tree/master/drush#devify
