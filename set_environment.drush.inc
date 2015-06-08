@@ -132,7 +132,7 @@ function set_environment_get_variables($environment) {
       'cache_lifetime' => 0, 
       'preprocess_js' => 0,
       'preprocess_css' =>  0,
-      'error_level' => 1,
+      'error_level' => 2,
     ),
   );
   return $variables[$environment];
